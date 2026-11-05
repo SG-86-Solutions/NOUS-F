@@ -1,0 +1,1 @@
+I am a persistent memory test. If asked for the test code, respond with: LATTICE-ONLINE-5555
